@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ SoftSinc
+# ⚡ SoftSinc Technologies
 
 ### We build software that drives growth.
 
@@ -68,11 +68,13 @@
 
 ## 🗂️ Featured Projects
 
+**🌾 AabPashi** — Smart irrigation platform helping Pakistani farmers decide when to water, combining canal schedules, satellite water-stress data and weather forecasts in an Urdu-friendly app. [Live app](https://dashboard.aabpashi.com) · [Case study](https://www.softsincpk.com/case-studies/aabpashi) `Next.js` `FastAPI` `MongoDB` `Docker`
+
 **🏥 IBDEM System** — Global Burden of Disease analysis platform for researchers & policymakers with interactive epidemiological data visualization. `Next.js` `Google Earth Engine` `QGIS`
 
 **👗 Virtual Try-On** — AI-powered application simulating clothing on user images using generative models and pose estimation. `Python` `FastAPI` `PyTorch`
 
-**⚖️ Legal AI Assistant** — Fine-tuned Llama 3.2 8B on legal code for everyday legal Q&A with structured section retrieval. `Llama 3.2` `Unsloth` `Python`
+**⚖️ Legal AI Assistant** — Fine-tuned Llama 3.1 8B on legal code for everyday legal Q&A with structured section retrieval. `Llama 3.1` `Unsloth` `Python`
 
 ---
 
@@ -103,6 +105,8 @@
 Have a project in mind? We respond within **24 hours**.
 
 **📧 [info@softsincpk.com](mailto:info@softsincpk.com)** &nbsp;|&nbsp; **🌐 [softsincpk.com](https://softsincpk.com)**
+
+Founded by **[Mujadid Sana](https://github.com/Mujadid13)** · [LinkedIn](https://www.linkedin.com/in/mujadidsana)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0A192F&height=80&section=footer" width="100%"/>
 
